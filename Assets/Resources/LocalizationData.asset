@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5e1d5e1a83f00742ae672a4333c4665, type: 3}
+  m_Name: LocalizationData
+  m_EditorClassIdentifier: Assembly-CSharp::Tools.Localization.LocalizationData
+  Entries:
+  - Key: LOC_SAMPLE_1_208
+    SourceText: 'Complete all missions to unlock new levels, earn special rewards,
+      upgrade your character abilities, and become the ultimate champion in this
+      exciting adventure game.
+
+'
+    Spanish: "Completa todas las misiones para desbloquear nuevos niveles, ganar
+      recompensas especiales, mejorar las habilidades de tu personaje y convertirte
+      en el campe\xF3n definitivo en este emocionante juego de aventuras.\r\n"
+    French: "Terminez toutes les missions pour d\xE9bloquer de nouveaux niveaux,
+      gagnez des r\xE9compenses sp\xE9ciales, am\xE9liorez les capacit\xE9s de votre
+      personnage et devenez le champion ultime dans ce jeu d'aventure passionnant.\r\n"
+  - Key: LOC_SAMPLE_2_249
+    SourceText: 'Use your strategy wisely, avoid dangerous obstacles, collect valuable
+      items, and progress through challenging stages while discovering hidden secrets
+      and powerful bonuses.
+
+'
+    Spanish: "Usa tu estrategia sabiamente, evita peligrosos obst\xE1culos, recoge
+      valiosos objetos y avanza por desafiantes fases mientras descubres secretos
+      ocultos y poderosas bonificaciones.\r\n"
+    French: "Utilisez votre strat\xE9gie \xE0 bon escient, \xE9vitez les obstacles
+      dangereux, collectez des objets de valeur et progressez \xE0 travers des \xE9tapes
+      difficiles tout en d\xE9couvrant des secrets cach\xE9s et de puissants bonus.\r\n"
+  - Key: LOC_SAMPLE_2__1__316
+    SourceText: Tap to Start
+    Spanish: Pulse para empezar
+    French: "Tapez sur pour d\xE9marrer"
+  - Key: LOC_TEXT__TMP__724
+    SourceText: Play
+    Spanish: Jugar
+    French: Jouer
